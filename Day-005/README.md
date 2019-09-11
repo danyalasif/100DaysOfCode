@@ -1,3 +1,3 @@
 # Day 6
 
-* Created my own online profile at [https://www.danyalasif.com/](Danyal)! Really excited about this, deployed on Netlify, built with GatsbyJS
+* Created my own online profile at [Danyal](https://www.danyalasif.com/)! Really excited about this, deployed on Netlify, built with GatsbyJS
